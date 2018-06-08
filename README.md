@@ -1,4 +1,4 @@
-Movie Notification Receiver
+Movie Listener
 ===========================
 
 To run:
